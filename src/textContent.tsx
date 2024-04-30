@@ -7,17 +7,17 @@ export const TextContent = () => {
       <div className="list">
         <div className="checkmark">
           <img
-            src="../public/images/icon-list.svg"
+            src="./public/images/icon-list.svg"
             alt="check mark"
             className="check-icon"
           />
           <img
-            src="../public/images/icon-list.svg"
+            src="./public/images/icon-list.svg"
             alt="check mark"
             className="check-icon-2"
           />
           <img
-            src="../public/images/icon-list.svg"
+            src="./public/images/icon-list.svg"
             alt="check mark"
             className="check-icon-3"
           />
