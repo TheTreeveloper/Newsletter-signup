@@ -16,7 +16,11 @@ export const TextContent = () => {
             alt="check mark"
             className="check-icon-2"
           />
-          <img src="/icon-list.svg" alt="check mark" className="check-icon-3" />
+          <img
+            src="./images/icon-list.svg"
+            alt="check mark"
+            className="check-icon-3"
+          />
         </div>
         <div className="list-items">
           <p>Product discovery and building what matters</p>
