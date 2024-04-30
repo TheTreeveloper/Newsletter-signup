@@ -4,11 +4,30 @@ export const TextContent = () => {
       <h1>Stay Updated!</h1>
       <p> Join 60,000+ product managers receiving monthly updates on:</p>
 
-      <ul>
-        <li>Product discovery and building what matters</li>
-        <li>Measuring to ensure updates are a success</li>
-        <li>And much more!</li>
-      </ul>
+      <div className="list">
+        <div className="checkmark">
+          <img
+            src="./images/icon-list.svg"
+            alt="check mark"
+            className="check-icon"
+          />
+          <img
+            src="./images/icon-list.svg"
+            alt="check mark"
+            className="check-icon-2"
+          />
+          <img
+            src="./images/icon-list.svg"
+            alt="check mark"
+            className="check-icon-3"
+          />
+        </div>
+        <div className="list-items">
+          <p>Product discovery and building what matters</p>
+          <p>Measuring to ensure updates are a success</p>
+          <p>And much more!</p>
+        </div>
+      </div>
     </div>
   );
 };
