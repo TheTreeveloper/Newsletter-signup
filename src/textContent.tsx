@@ -1,6 +1,6 @@
 export const TextContent = () => {
   return (
-    <div>
+    <div className="text-container">
       <h1>Stay Updated!</h1>
       <p> Join 60,000+ product managers receiving monthly updates on:</p>
 
