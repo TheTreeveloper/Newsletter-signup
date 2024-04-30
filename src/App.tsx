@@ -3,9 +3,11 @@ import { TextContent } from "./textContent";
 
 export const App = () => {
   return (
-    <div>
+    <div className="parent-container">
       <HeroImage />
-      <TextContent />
+      <div className="container">
+        <TextContent />
+      </div>
     </div>
   );
 };
