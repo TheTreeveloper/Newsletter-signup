@@ -1,7 +1,7 @@
 export const TextContent = () => {
   return (
     <div>
-      <h1>Stay Updated</h1>
+      <h1>Stay Updated!</h1>
       <p> Join 60,000+ product managers receiving monthly updates on:</p>
 
       <ul>
