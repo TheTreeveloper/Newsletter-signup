@@ -32,7 +32,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    padding-right: 2rem;
+    padding-right: 1.5rem;
 }
 
 h1 {
@@ -86,4 +86,5 @@ img {
     flex-direction: column;
     gap: 1rem;
 }
+
 
